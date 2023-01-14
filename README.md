@@ -1,9 +1,5 @@
-<h1 align="center">QEats Restaurant App</h1>
-<h4 align="center">Prototype of a restaurant app of online food ordering service</h4>
 
-<br>
-
-## What is it?
+## Overview:
 
 - QEats Restaurant App help restaurant owners and managers in managing their menu (items, availability, prices), order preparation time, order status, order history, and order notifications (like the arrival of order and/or cancellation of orders).
 - This application will provide restaurant owners (or managers) a seamless and easy-to-use interface for managing their restaurant over QEats platform. 
