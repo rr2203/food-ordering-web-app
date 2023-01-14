@@ -1,9 +1,3 @@
-#### Contributors
-
-1. Abdul Kadir [(@Abdulkadir98)](<https://github.com/Abdulkadir98>) (MSRIT)
-2. Chirag Mittal [(@mittalchirag)](<https://github.com/mittalchirag>) (SRM)
-3. Shashank Holla [(@shashankholla)](<https://github.com/shashankholla>) (RVCE)
-
 <h1 align="center">QEats Restaurant App</h1>
 <h4 align="center">Prototype of a restaurant app of online food ordering service</h4>
 
@@ -239,11 +233,3 @@ Currently DB has data for this User's restaurant:
 | :----------- | ---------- | :---------------- |
 | tester       | Tester@123 | 18471268          |
 
-
-
-## Links
-
-1. ["Engineering Design Doc"](</docs/QEats Restaurant App - EDD.pdf>)
-   https://docs.google.com/document/d/1pZmBQZdeMnm6twxNAntwyEuARUKHNSYNCA0J_aFlTzA/edit?usp=sharing
-2. ["Product Requirement Doc"](</docs/QEats Restaurant App - PRD.pdf>)
-   https://docs.google.com/document/d/13eOloxcUo8GjkRQh-OxBezNKzWik4SnKTw8CB7gzXBQ/edit?usp=sharing
