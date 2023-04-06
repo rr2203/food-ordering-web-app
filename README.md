@@ -5,14 +5,6 @@
 - This application will provide restaurant owners (or managers) a seamless and easy-to-use interface for managing their restaurant over QEats platform. 
 - By providing intuitive and easy access for restaurant owners (or managers) will result in an increase in the number of restaurants over QEats.
 
-![Dashboard](https://imgur.com/xMCQeoG.png)
-
-![Menu](https://imgur.com/tft4979.png)
-
-![All orders page](https://imgur.com/DDhkuTC.png)
-
-![Placed Orders](https://imgur.com/IAkNvxQ.png)
-
 ## Tech Stack
 
 ### Architecture: 
