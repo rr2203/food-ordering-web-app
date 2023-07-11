@@ -2,11 +2,17 @@ This project is a part of https://criodo.github.io/Crio-Accelerate-May-2020-hayw
 
 ## Overview:
 
-- QEats Restaurant App help restaurant owners and managers in managing their menu (items, availability, prices), order preparation time, order status, order history, and order notifications (like the arrival of order and/or cancellation of orders).
-- This application will provide restaurant owners (or managers) a seamless and easy-to-use interface for managing their restaurant over QEats platform. 
-- By providing intuitive and easy access for restaurant owners (or managers) will result in an increase in the number of restaurants over QEats.
+- This App helps restaurant owners and managers in managing their menu (items, availability, prices), order preparation time, order status, order history, and order notifications (like the arrival of order and/or cancellation of orders).
+- This application will provide restaurant owners (or managers) a seamless and easy-to-use interface for managing their restaurant over the platform. 
+- By providing intuitive and easy access for restaurant owners (or managers) will result in an increase in the number of restaurants.
 
-## Tech Stack
+![Dashboard](https://imgur.com/xMCQeoG.png)
+
+![Menu](https://imgur.com/tft4979.png)
+
+![All orders page](https://imgur.com/DDhkuTC.png)
+
+![Placed Orders](https://imgur.com/IAkNvxQ.png)
 
 ### Architecture: 
 
@@ -66,18 +72,9 @@ Current version has these flows implemented:
 - Accept/Reject incoming orders based on availability of items
 - Update order status - PREPARING, PACKED, Out For Delivery (OFD)
 
-### Testing Live Server:
-
-The current backend is hosted on cloud VM at this address `54.158.255.17:8081`
-
-Try sending `curl -X GET http://54.158.255.17:8081/qeats/v1/menu?restaurantId=18471268`
-
-The current frontend is hosted at https://q-eats-restaurant.firebaseapp.com/
-**Note: the frontend won't be able to send request to backend. Since browser prevents sending request from HTTPS to HTTP. Run your browser to `--allow-insecure-sources`**
-
 ### API contracts:
 
-Following APIs are developed on top of current QEats backend:
+The following APIs are developed on top of the current backend:
 
 1. Adding an item to the menu  
 
